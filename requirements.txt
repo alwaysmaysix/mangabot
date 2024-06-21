@@ -1,5 +1,5 @@
 aiohttp~=3.9.0
-Pyrogram~=2.0.97
+git+https://github.com/Masterolic/pyrogram.git
 beautifulsoup4~=4.8.0
 Pillow~=10.1.0
 tgcrypto
