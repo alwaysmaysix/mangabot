@@ -18,3 +18,4 @@ from .likemanga import LikeMangaClient
 from .comick import ComickClient
 from .novelbuddy import NovelBuddyClient
 from .mangasee import MangaSeeClient
+from .allporncomics_client import AllPornComicsClient
